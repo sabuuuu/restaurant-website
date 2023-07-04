@@ -2,7 +2,7 @@
 
 # Restaurant Website
 
-A responsive website template for a restaurant or food-related business. This project provides an elegant and visually appealing website to showcase the restaurant's menu, services, and contact information.
+A responsive website template for a restaurant or food-related business. This project provides an elegant and visually appealing website to showcase the restaurant's menu, services, and contact information all using Reactjs.
 
 ## Features
 - Modern and visually appealing design.
@@ -14,3 +14,7 @@ A responsive website template for a restaurant or food-related business. This pr
 
 ## Live Demo
 Check out the live demo of the Restaurant Website: [Restaurant Website Live Demo](https://sabuuuu.github.io/restaurant-website/)
+
+## Acknowledgments 
+This project is part of The Odin Project curriculum.
+You can learn more about this here : [The Odin Project](https://www.theodinproject.com/)
